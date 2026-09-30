@@ -1,0 +1,9 @@
+{
+  "name": "callfundr",
+  "version": "1.0.0",
+  "description": "Run your home service company from Claude with CallFundr: today's board, rain-day reshuffles, unpaid invoices, maintenance season, and the end-of-day wrap-up.",
+  "author": { "name": "CallFundr", "email": "info@callfundr.com", "url": "https://callfunder.com/claude" },
+  "homepage": "https://callfunder.com/claude",
+  "license": "MIT",
+  "keywords": ["home service", "dispatch", "field service", "scheduling", "invoicing", "operations", "callfundr"]
+}

@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "callfundr": { "type": "http", "url": "https://api.callfundr.com/api/v1/connector/mcp/tenant" }
+  }
+}
